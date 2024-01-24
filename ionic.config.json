@@ -1,0 +1,7 @@
+{
+  "name": "firstreactionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
